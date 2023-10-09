@@ -13,10 +13,10 @@ Contributed by Yuxia Geng.
 	<td colspan="2"><a href="#High-citation">2. High-citation Papers</a></td>
 </tr>
 <tr>
-	<td colspan="2"><a href="#external-knowledge">3. GNN-based </a></td>
+	<td colspan="2"><a href="#GNN-based">3. GNN-based </a></td>
 </tr>
 <tr>
-	<td colspan="2"><a href="#external-knowledge">4. LM-based </a></td>
+	<td colspan="2"><a href="#LM-based">4. LM-based </a></td>
 </tr>
 </table>
 
@@ -44,3 +44,5 @@ Contributed by Yuxia Geng.
 3. GenKGC: From Discrimination to Generation: Knowledge Graph Completion with Generative Transformer.
 4. Dipping PLMs Sauce: Bridging Structure and Text for Effective Knowledge Graph Completion via Conditional Soft Prompting.
 
+*LM (Language Model) References*
+Transformer, BERT, GPT 系列（ChatGPT）重点了解
