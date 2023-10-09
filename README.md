@@ -1,5 +1,5 @@
 # KG_Papers
-A collection of KG-related papers
+A collection of KG relevant papers, focusing on how to complete Knowledge Graphs, i.e., the task of Knowledge Graph Completion (KGC).
 
 Contributed by Yuxia Geng.
 
